@@ -22,5 +22,4 @@ end
 def printer(speakers)
  speakers.each_line
 end
-new_array
-end
+
