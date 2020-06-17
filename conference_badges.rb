@@ -18,3 +18,7 @@ new_array << "Hello, #{name}! You'll be assigned to room #{index+1}!"
 end
 new_array
 end
+
+def printer
+  puts new_array
+end
