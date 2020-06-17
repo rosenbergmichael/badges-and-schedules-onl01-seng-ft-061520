@@ -21,8 +21,8 @@ end
 
 def printer(speakers)
   speakers.each do |name, index|
-  puts batch_badge_creator(name)
-  puts assign_rooms(index)
+  batch_badge_creator(name)
+  assign_rooms(index)
 end
 end
 
