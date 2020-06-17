@@ -21,7 +21,7 @@ end
 
 def printer(speakers)
   speakers.each do |name, index|
-  batch_badge_creator(name)
+  batch_badge_creator(#{name})
   assign_rooms(index)
 end
 end
