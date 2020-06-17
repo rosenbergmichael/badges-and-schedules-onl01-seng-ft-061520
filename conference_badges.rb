@@ -21,7 +21,6 @@ end
 
 def printer(speakers)
  speakers.each_line
-new_array << batch_badge_creator
 end
 new_array
 end
