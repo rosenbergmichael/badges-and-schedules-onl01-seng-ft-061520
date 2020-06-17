@@ -19,6 +19,6 @@ end
 new_array
 end
 
-def printer
+def printer(speakers)
   puts new_array
 end
