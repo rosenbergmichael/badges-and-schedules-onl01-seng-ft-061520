@@ -21,8 +21,7 @@ end
 
 def printer(speakers)
   new_array=[]
-  puts batch_badge_creator
-  puts assign_rooms
 end
-new_array
+  batch_badge_creator
+  assign_rooms
 end
