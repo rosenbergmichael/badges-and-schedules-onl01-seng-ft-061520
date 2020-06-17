@@ -20,5 +20,7 @@ new_array
 end
 
 def printer(speakers)
+  new_array=[]
   puts new_array
 end
+
