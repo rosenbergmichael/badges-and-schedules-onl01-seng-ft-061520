@@ -26,5 +26,3 @@ def printer(speakers)
 end
 new_array
 end
-
-
