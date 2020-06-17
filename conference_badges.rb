@@ -19,7 +19,7 @@ end
 new_array
 end
 
-def printer
+def printer(speakers)
   new_array=[]
   batch_badge_creator
   assign_rooms
