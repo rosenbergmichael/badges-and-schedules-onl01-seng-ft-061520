@@ -22,7 +22,7 @@ end
 def printer(speakers)
   new_array=[]
  speakers.each_line
+new_array << batch_badge_creator
 end
-batch_badge_creator
-assign_rooms
+new_array
 end
