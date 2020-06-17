@@ -20,6 +20,7 @@ new_array
 end
 
 def printer(speakers)
- speakers.each_line
+  puts batch_badge_creator
+  puts assign_rooms
 end
 
