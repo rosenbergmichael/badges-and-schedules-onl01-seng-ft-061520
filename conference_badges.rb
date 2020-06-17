@@ -20,7 +20,7 @@ new_array
 end
 
 def printer(speakers)
-  batch_badge_creator.each do |name|  
-  assign_rooms.each do |index|
+  batch_badge_creator(speakers).each do |name|  
+  assign_rooms(speakers).each do |index|
 end
 end
